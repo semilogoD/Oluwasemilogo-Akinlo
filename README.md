@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and SQL**
 
-- 💬 Ask me about **Excel, Power BI,SQL,Rand Python**
+- 💬 Ask me about **Excel, Power BI,SQL,R and Python**
 
 - 📫 How to reach me **akinlooluwasemilogo@gmail.com**
 
