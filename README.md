@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvideo%2F48670881-animation-of-data-analytics-on-dashboard-with-chart-or-diagram&psig=AOvVaw0-42rt72qOFonUIOTX8Hdt&ust=1750173556801000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCIkfCe9o0DFQAAAAAdAAAAABAE)]
+
 <h1 align="center">Hi 👋, I'm Oluwasemilogo</h1>
 <h3 align="center">A passionate Data Analyst from Nigeria</h3>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and SQL**
 
-- 💬 Ask me about **Excel, Power BI,SQL,R and Python**
+- 💬 Ask me about **Excel, Power BI, SQL, R, and Python**
 
 - 📫 How to reach me **akinlooluwasemilogo@gmail.com**
 
